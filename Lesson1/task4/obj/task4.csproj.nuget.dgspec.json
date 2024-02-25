@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\GB\\Programming\\lesson1\\task4\\task4.csproj": {}
+    "D:\\GeekBrains\\GB\\Programming\\Lesson1\\task4\\task4.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\GB\\Programming\\lesson1\\task4\\task4.csproj": {
+    "D:\\GeekBrains\\GB\\Programming\\Lesson1\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\GB\\Programming\\lesson1\\task4\\task4.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\GB\\Programming\\Lesson1\\task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "D:\\GeekBrains\\GB\\Programming\\lesson1\\task4\\task4.csproj",
+        "projectPath": "D:\\GeekBrains\\GB\\Programming\\Lesson1\\task4\\task4.csproj",
         "packagesPath": "C:\\Users\\Юрий К\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\GB\\Programming\\lesson1\\task4\\obj\\",
+        "outputPath": "D:\\GeekBrains\\GB\\Programming\\Lesson1\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий К\\AppData\\Roaming\\NuGet\\NuGet.Config"
