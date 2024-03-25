@@ -4,6 +4,42 @@
 #print(List[0:3]) #['a', 'b', 'c']
 #print(List[1:3]) #['b', 'c']
 
+
+#....................No2 Enumerate
+#List = ['a', 'b', 'c', 'd', 'e', 'f']
+#for i, res in enumerate(List):
+    #print(f'под интексом {i} находится {res}')
+    
+# Без F-строк:
+#List = ['a', 'b', 'c', 'd', 'e', 'f']
+#for index, value in enumerate(List):
+    #print(index, value)
+
+#....................No3 Random fill and maх even and min index
+#import random
+#list = [random.randint(1, 50) for i in range(20)]
+#print(list)
+#print(f'Максимальный элемент: {max(list)}, с индексом: {list.index(max(list))}')
+#print(f'Минимальный элемент: {min(list)}, с индексом: {list.index(min(list))}')
+#list_even = [i for i in list if i % 2 == 0]
+#if list_even:
+#    print(list_even)
+#    print(f'Максимальный четный элемент: {max(list_even)}, с индексом: {list_even.index(max(list_even))}')
+#else:
+#    print("Чётных элементов в списке нет")
+
+#....................No4 manual input and lenght of the list
+#print("Введите элементы списка")
+#new_list = list(map(int, input().split()))
+#print(f"Длина списка: {len(new_list)}")
+
+#............Reverse()
+#import random
+#list = [random.randint(1, 50) for i in range(10)]
+#print(list)
+#list_reverse = list.reverse()
+#print(list)
+
 #............Append()
 
 # append() принимает один аргумент и добавляет его в конец list. Тип параметра может быть любым: числа, строки, словари и так далее. 
@@ -50,3 +86,25 @@
 #Содержимое этого объекта поэлементно добавляется в другой список.
 #Кроме методов append() и extend() добавить элементы в список можно с помощью оператора + и срезов. 
 #Оба способа действуют как extend() — поочерёдно добавляют элементы одного списка в другой.
+
+#list.append(x)` — добавляет элемент `x` в конец списка.
+
+#list.extend(x)` — добавляет в конец списка элементы списка `x`.
+
+#list.insert(y, x)` — вставляет элемент `x` в список `list` порядковым номером `y`.
+
+#list.remove(x)` — удаляет первый элемент в списке `list`, который равен значению `x`.
+
+#list.pop(y)` — удаляет элемент списка `list` по порядковому номеру `y`.
+
+#list.index(g, x, y)` — возвращает порядковый номер первого элемента со значением `g` в списке `list` в диапазоне от `x` до `y`.
+
+#list.count(x)` — возвращает количество элементов со значением `x` в списке `list`.
+
+#list.sort()` — сортировка списка.
+
+#list.reverse()` — переворачивает (реверсирует) список.
+
+#list.copy()` — копирует список.
+
+#list.clear()` — очищает список.
