@@ -6,10 +6,18 @@
 # Output: true
 
 
-a = (1, 2, 3, 4)
-b = (1, 2)
-contains_all = all(elem in a for elem in b)
-print(contains_all)
+#a = (1, 2, 3, 4)
+#b = (1, 2)
+#contains_all = all(elem in a for elem in b)
+#print(contains_all)
 
 
-#................... 
+#................... Slicing
+tuple = (1, 2, 3, 4, 5)
+
+def slice_func(tuple):
+    return tuple[::-1]
+
+print(slice_func(tuple))
+
+#.................................

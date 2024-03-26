@@ -4,6 +4,14 @@
 #print(List[0:3]) #['a', 'b', 'c']
 #print(List[1:3]) #['b', 'c']
 
+#....................Function
+
+list = [1, 2, 3, 4, 5]
+def slice_func(list):
+    return list[::-1]
+
+print(slice_func(list))
+
 
 #....................No2 Enumerate
 #List = ['a', 'b', 'c', 'd', 'e', 'f']
