@@ -21,6 +21,6 @@ users = [
     {'name': 'Маша', 'salary': '300', 'age': 24},
 ]
    
-for x in sorted(users, key = operator.itemgetter('salary'), reverse = True):
-    print(x)
+for item in sorted(users, key = operator.itemgetter('salary', 'age'), reverse = True):
+    print(item)
                 
