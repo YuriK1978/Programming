@@ -53,7 +53,7 @@ from pympler import asizeof
 import dis
 from timeit import timeit
 
-
+'''
 print(timeit("list()"))
 print(timeit("tuple()"))
 print(asizeof.asizeof(list()))
@@ -64,3 +64,20 @@ print(timeit("[]")) # - в два раза быстрее
 
 dis.dis("list()")
 dis.dis("[]")
+'''
+
+#new_list = []
+#print(dir(new_list))
+# Методы List: 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+#tuple = ()
+#print(dir(tuple))
+# Методы Tuple 'count', 'index'
+
+#string = 'fortran'
+#print(dir(string))
+#'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 
+# 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 
+# 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 
+# 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 
+# 'title', 'translate', 'upper', 'zfill'
