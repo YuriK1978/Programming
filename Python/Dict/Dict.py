@@ -1,3 +1,12 @@
+# ТИПЫ СЛОВАРЕЙ:
+#1. Обычный дикт
+#2. Counter
+#3. Chainmap
+#4. Ordered amap
+#5. Default dict
+#6. MappingProxyType
+
+
 # !!! При создании пустого словаря используй {}, как в листе.
 
 #my_dict = {'a': 1, 'b': 2, 'c': 3}
