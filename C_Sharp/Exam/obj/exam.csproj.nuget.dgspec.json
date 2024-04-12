@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\GB\\Programming\\C_Sharp\\exam\\exam.csproj": {}
+    "D:\\GeekBrains\\GB\\Programming\\c_sharp\\exam\\exam.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\GB\\Programming\\C_Sharp\\exam\\exam.csproj": {
+    "D:\\GeekBrains\\GB\\Programming\\c_sharp\\exam\\exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\GB\\Programming\\C_Sharp\\exam\\exam.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\GB\\Programming\\c_sharp\\exam\\exam.csproj",
         "projectName": "exam",
-        "projectPath": "D:\\GeekBrains\\GB\\Programming\\C_Sharp\\exam\\exam.csproj",
+        "projectPath": "D:\\GeekBrains\\GB\\Programming\\c_sharp\\exam\\exam.csproj",
         "packagesPath": "C:\\Users\\Юрий К\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\GB\\Programming\\C_Sharp\\exam\\obj\\",
+        "outputPath": "D:\\GeekBrains\\GB\\Programming\\c_sharp\\exam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий К\\AppData\\Roaming\\NuGet\\NuGet.Config"
