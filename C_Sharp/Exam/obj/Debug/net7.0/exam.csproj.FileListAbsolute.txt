@@ -1,0 +1,14 @@
+D:\GeekBrains\GB\Programming\C_Sharp\exam\bin\Debug\net7.0\exam.exe
+D:\GeekBrains\GB\Programming\C_Sharp\exam\bin\Debug\net7.0\exam.deps.json
+D:\GeekBrains\GB\Programming\C_Sharp\exam\bin\Debug\net7.0\exam.runtimeconfig.json
+D:\GeekBrains\GB\Programming\C_Sharp\exam\bin\Debug\net7.0\exam.dll
+D:\GeekBrains\GB\Programming\C_Sharp\exam\bin\Debug\net7.0\exam.pdb
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.AssemblyInfo.cs
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.dll
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\refint\exam.dll
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.pdb
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\exam.genruntimeconfig.cache
+D:\GeekBrains\GB\Programming\C_Sharp\exam\obj\Debug\net7.0\ref\exam.dll
