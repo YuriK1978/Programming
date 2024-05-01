@@ -34,6 +34,11 @@ squares = [e * e for e in range(10) if e % 2 == 0] # и фильтр и прео
 text = 'hello world'
 words = [word.capitalize() for word in text.split()] # только преобразование
 
+#2.1
+words = ['Я', 'изучаю', 'Python']  
+letters = [letter for word in words for letter in word]  
+print(letters) # # ['Я', 'и', 'з', 'у', 'ч', 'а', 'ю', 'P', 'y', 't', 'h', 'o', 'n']
+
 #3
 ints = [-1, -2, 0, 3, -4]
 positives = [e for e in ints if e > 0] # только фильтрация
