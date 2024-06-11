@@ -1,6 +1,5 @@
 def name_data():
-    name = input('Введите ваше имя: ')
-    print('Красивое имя')
+    name = input('Введите имя: ')
     return name
 
 def surname_data():
@@ -10,6 +9,10 @@ def surname_data():
 def phone_data():
     phone = input('Введите номер телефона: ')
     return phone
+
+def address_data():
+    address = input('Введите ваш адрес: ')
+    return address
 
 def address_data():
     address = input('Введите ваш адрес: ')
